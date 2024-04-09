@@ -56,3 +56,7 @@ git commit -m "add comment to git status"
 
 git add .
 git commit -m "add comment to git log"
+
+git add .
+git commit -m "add comment to git checkout branch_name"
+
