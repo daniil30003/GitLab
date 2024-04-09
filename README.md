@@ -29,3 +29,12 @@ git записать команду отправки изменений
 ```
 
 git clone https://github.com/teacher-fiit/GitCheatSheet
+cd GitCheatSheet/
+git add .
+git commit -m "add comment to git init"
+
+git add .
+git commit -m "add comment to git clone"
+
+git add .
+git commit -m "add comment to git add file"
