@@ -45,4 +45,6 @@ git commit -m "add comment to git add ."
 git add .
 git commit -m "add comment to git commit -m 'comment'"
 
+git add .
+git commit -m "add comment to git commit -a -m 'comment'"
 
