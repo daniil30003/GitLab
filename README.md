@@ -40,5 +40,9 @@ git add .
 git commit -m "add comment to git add file"
 
 git add .
-$ git commit -m "add comment to git add ."
+git commit -m "add comment to git add ."
+
+git add .
+git commit -m "add comment to git commit -m 'comment'"
+
 
