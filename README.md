@@ -38,3 +38,7 @@ git commit -m "add comment to git clone"
 
 git add .
 git commit -m "add comment to git add file"
+
+git add .
+$ git commit -m "add comment to git add ."
+
