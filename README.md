@@ -54,3 +54,5 @@ git commit -m "add comment to git push url"
 git add .
 git commit -m "add comment to git status"
 
+git add .
+git commit -m "add comment to git log"
