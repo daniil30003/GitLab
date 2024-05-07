@@ -65,3 +65,7 @@ git commit -m "add comment to git checkout -b branch_name"
 
 git add .
 git commit -m "add comment to git remote"
+
+git add .
+git commit -m "add comment to git branch branch_name"git status
+
