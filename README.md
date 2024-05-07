@@ -29,7 +29,9 @@ git записать команду отправки изменений
 ```
 
 git clone https://github.com/teacher-fiit/GitCheatSheet
+
 cd GitCheatSheet/
+
 git add .
 git commit -m "add comment to git init"
 
@@ -69,3 +71,5 @@ git commit -m "add comment to git remote"
 git add .
 git commit -m "add comment to git branch branch_name"git status
 
+git remote add daniil https://github.com/daniil30003/GitLab
+git push daniil main
